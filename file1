@@ -1,2 +1,6 @@
 third line
-fourth line
+<<<<<<< HEAD
+=======
+4th line
+fifth line
+>>>>>>> 4th and 5th line added by master
